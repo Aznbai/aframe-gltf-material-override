@@ -1,2 +1,2 @@
 # aframe-gltf-material-override
-This Aframe component interfaces the material of a gltf model by overriding the internal materials of a gltf file
+This Aframe component allows for interfacing the material of a gltf mesh by overriding the native material inside a gltf file
